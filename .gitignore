@@ -1,0 +1,7 @@
+#Ignore media directory
+media/
+.ipynb_checkpoints
+
+#Ignore compiled output files
+svg
+mp4
